@@ -1,8 +1,6 @@
 Projet C++ : Cryptage et décryptage
 
-PARTIE 3:
 
-#L'archive CHAABANI_Ahmed_TD4_HADJ-MAHFOUD_Kenza_TD2.zip contient les fichiers suivants :
 
  * Dossier src qui contient les fichiers sources suivant :
  		-> main.cpp : qui contient le programme principal
